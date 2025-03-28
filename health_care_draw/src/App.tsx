@@ -8,6 +8,7 @@ import MedicalResources from './pages/MedicalResources';
 
 function App() {
   return (
+    // new commit
     <Router>
       <div className="min-h-screen bg-gray-50">
         <Navigation />
